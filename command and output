@@ -1,0 +1,10 @@
+Hadoop Execution Command:
+-------------------------------
+hadoop jar /home/acadgild/assignment4/Task01.jar mapreduce.assignment.task1.InvalidRecords /user/acadgild/hadoop/television.txt /user/acadgild/hadoop/Invalidteleout
+
+Output:
+-------------------------------
+	NA|Lucid|18|Uttar Pradesh|232401|16200
+	Onida|NA|16|Kerala|922401|12200
+
+
